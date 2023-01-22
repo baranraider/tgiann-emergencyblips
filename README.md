@@ -1,8 +1,6 @@
-# tgiann-emergencyblips
-tgiann-emergencyblip - nopixel inspired system
+# Scripti kullanabilmek için tgiann-infinity ve qb-input gerekmekte.
+https://www.dosya.tc/server40/fv9npc/tgiann-infinity.rar.html
 
-gerekli scriptler;
-qb-input
-tgiann-infinity
+nopixel sunucusunun gps sisteminden alıntıdır.
 
-ve qbcore paket amk
+Newqbcore kullanmaktaysanız newqbcoreclient ve newqbcoreserver dosyalarını client.lua ve server.lua dosyaları ile değiştirin.
